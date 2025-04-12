@@ -39,6 +39,27 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
    python app.py --reload
    ```
 
-
 ## Autores
 - [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
+
+# Usando Insomnia
+## Criando uma coleção para guardar as url's.
+![Minha Imagem](images/Parte1.png)
+
+## Cadastrando as url's.
+![Minha Imagem](images/Parte2.png)
+
+## Testando a primeira rota.
+![Minha Imagem](images/Parte3.png)
+
+## Criando usuário.
+![Minha Imagem](images/Parte4.png)
+
+## Pegando token de login.
+![Minha Imagem](images/Parte5.png)
+
+## Passando o token no lugar correto.
+![Minha Imagem](images/Parte6.png)
+
+## Acessando a rota protegida, so é possivel acessar passando o token de login.
+![Minha Imagem](images/Parte7.png)
