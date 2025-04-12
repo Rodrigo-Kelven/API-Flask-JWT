@@ -1,4 +1,3 @@
-# APi Flask with JWT
 # API Flask com Autenticação JWT
 
 Esta é uma API simples construída com Flask que implementa autenticação usando JSON Web Tokens (JWT). A API permite o registro de usuários, login e acesso a rotas protegidas.
