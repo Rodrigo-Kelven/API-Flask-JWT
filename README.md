@@ -1,4 +1,9 @@
 # API Flask com Autenticação JWT
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23C72C41.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 
 Esta é uma API simples construída com Flask que implementa autenticação usando JSON Web Tokens (JWT). A API permite o registro de usuários, login e acesso a rotas protegidas.
 
