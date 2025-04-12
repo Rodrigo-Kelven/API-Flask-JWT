@@ -7,14 +7,14 @@
 
 Esta é uma API simples construída com Flask que implementa autenticação usando JSON Web Tokens (JWT). A API permite o registro de usuários, login e acesso a rotas protegidas.
 
-## Funcionalidades
+## Funcionalidades.
 
 - Registro de novos usuários
 - Login de usuários existentes
 - Geração de tokens JWT para autenticação
 - Acesso a rotas protegidas com autenticação JWT
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas.
 
 - Python 3.x
 - Flask
@@ -23,11 +23,11 @@ Esta é uma API simples construída com Flask que implementa autenticação usan
 - PyJWT
 - SQLite (banco de dados)
 
-## Pré-requisitos
+## Pré-requisitos.
 
 Antes de começar, você precisará ter o Python e o pip instalados em sua máquina. Você pode baixar o Python [aqui](https://www.python.org/downloads/).
 
-## Instalação
+## Instalação:
 
 ### 1. Clone o repositório:
 
@@ -39,7 +39,7 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
    ```bash
    pip install -r requirements.txt
    ```
-### 3. Rode a API
+### 3. Rode a API:
    ```bash
    python app.py --reload
    ```
