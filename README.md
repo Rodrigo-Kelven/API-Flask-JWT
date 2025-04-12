@@ -38,3 +38,7 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
    ```bash
    python app.py --reload
    ```
+
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
