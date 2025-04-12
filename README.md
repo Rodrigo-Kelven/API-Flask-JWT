@@ -39,9 +39,6 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
    python app.py --reload
    ```
 
-## Autores
-- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
-
 # Usando Insomnia
 ## Criando uma coleção para guardar as url's.
 ![Minha Imagem](images/Parte1.png)
@@ -63,3 +60,6 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
 
 ## Acessando a rota protegida, so é possivel acessar passando o token de login.
 ![Minha Imagem](images/Parte7.png)
+
+## Autores
+- [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
