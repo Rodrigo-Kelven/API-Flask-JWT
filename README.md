@@ -68,3 +68,6 @@ Antes de começar, você precisará ter o Python e o pip instalados em sua máqu
 
 ## Autores
 - [@Rodrigo_Kelven](https://github.com/Rodrigo-Kelven)
+
+## Colaboradores
+- [@Tiago-Dev0708](https://github.com/Tiago-Dev0708)
